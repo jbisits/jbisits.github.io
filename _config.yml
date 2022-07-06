@@ -61,6 +61,7 @@ author:
   name   : "Josef Bisits"
   avatar : "/assets/images/Headshot.jpeg"
   bio    : "PhD candidate - musician"
+location : "Sydney, Australia"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
