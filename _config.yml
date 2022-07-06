@@ -62,15 +62,15 @@ author:
   bio    : "PhD candidate - musician"
 location : "Sydney, Australia"
   github : "https://github.com/jbisits"
-linkedin : "https://www.linkedin.com/in/josef-bisits-066253123/"
+#linkedin : "https://www.linkedin.com/in/josef-bisits-066253123/"
 
-#  links:
+  links:
 #    - label: "GitHub"
 #      icon: "fab fa-fw fa-github"
 #      url: https://github.com/jbisits
-#    - label: "LinkedIn"
-#      icon: "fas fa-fw fa-linkedin"
-#      url: "https://www.linkedin.com/in/josef-bisits-066253123/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/josef-bisits-066253123/"
 
 footer:
   links:
