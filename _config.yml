@@ -61,13 +61,13 @@ author:
   name   : "Josef Bisits"
   avatar : "/assets/images/Headshot.jpeg"
   bio    : "PhD candidate - musician"
-location : "Sydney, Australia"
+  location : "Sydney, Australia"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/jbisits
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/josef-bisits-066253123/"
 
 footer:
