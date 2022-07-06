@@ -3,6 +3,20 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a PhD candidate and professional double bassist living in Syndey, Australia.
+In 2010 I completed a bachelor of music (performance) at the Sydney Conservatorium and have been working as a professional double bassist since 2008.
+In 2021 I completed a bachelor of science (honours) in applied mathematics at the university of New South Wales.
+In 2022 I started my PhD, again at the university of New South Wales in applied mathematics, under the supervision of Associate Professor Jan Zika.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Research
+
+My area of research is water mass transformation where we look at how the density of seawater changes as a result of changes in temperature and/or salinity.
+The way the Southern Ocean absorbs and redistributes things like heat and carbon is influenced by water mass transformation which makes it important for the climate as a whole.
+
+## Music
+
+My work as a double bassist is with the opera Australia orchestra, Sydney symphony orchestra and Australian chamber orchestra.
+
+## Fun
+
+For fun I love to play tennis and spend time with my family.

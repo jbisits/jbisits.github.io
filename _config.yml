@@ -60,13 +60,17 @@ author:
   name   : "Josef Bisits"
   avatar : "/assets/images/Headshot.jpeg"
   bio    : "PhD candidate - musician"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/jbisits
+location : "Sydney, Australia"
+  github : "https://github.com/jbisits"
+linkedin : "https://www.linkedin.com/in/josef-bisits-066253123/"
+
+#  links:
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: https://github.com/jbisits
+#    - label: "LinkedIn"
+#      icon: "fas fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/josef-bisits-066253123/"
 
 footer:
   links:
