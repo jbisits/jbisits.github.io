@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Josef Bisits"
-  avatar : "/assets/images/Headshot.jpg"
+  avatar : "/assets/images/Headshot.jpeg"
   bio    : "PhD candidate - musician"
   links:
     - label: "Website"
