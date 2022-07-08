@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website for Josef Bisits
 github_username: jbisits
 repository: "jbisits/jbisits.github.io"
+url : "https://jbisits.github.io/"
 minimal_mistakes_skin: default
 search: true
 
