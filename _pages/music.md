@@ -3,4 +3,4 @@ permalink: /music/
 title: "Music"
 ---
 
-To do.
+My work as a double bassist is with the opera Australia orchestra, Sydney symphony orchestra and Australian chamber orchestra.
