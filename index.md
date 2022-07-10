@@ -1,5 +1,4 @@
 ---
-title : Josef Bisits
 layout: home
 author_profile: true
 ---
