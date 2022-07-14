@@ -4,3 +4,6 @@ _site
 Gemfile.lock
 
 Defaults
+
+# macos
+.DS_Store
