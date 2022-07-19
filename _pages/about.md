@@ -19,7 +19,7 @@ This rediscovery led me back to university in the second half of 2016 to being a
 When I started I was not really sure where it would take me, I just enjoyed the maths and the mental stimulation that studying brings!
 I was lucky to have great supervisors ([Associate Professor Jan Zika](https://sites.google.com/view/janzika/home) and [Dr Geoff Stanley](https://geoffstanley.github.io/)) for my honours project one of whom even took me on to do a PhD!
 
-Currenlty I am in the first year of PhD and continuing to work as a freelance double bassist.
+Currenlty I am in the first year of my PhD and continuing to work as a freelance double bassist.
 
 ## Education
 
