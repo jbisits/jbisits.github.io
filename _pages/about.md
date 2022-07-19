@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-header: 
-    image: /assets/images/Littlebay_backdrop.jpeg
 ---
 
 I grew up in Newcastle, NSW.
