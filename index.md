@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/Littlebay_backdrop.jpeg
+  image: /assets/images/Littlebay_backdrop.png
 classes: wide
 ---
 
