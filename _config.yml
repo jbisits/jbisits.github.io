@@ -67,11 +67,11 @@ author:
   linkedin : "josef-bisits-066253123"
   links    :
     - label : "Orcid"
-        icon  : "fab fa-fw fa-orcid"
-        url   : "https://orcid.org/0000-0002-6340-4470"
+      icon  : "fab fa-fw fa-orcid"
+      url   : "https://orcid.org/0000-0002-6340-4470"
     - label : "Email"
-      icon    : "fas fa-fw fa-envelope-square"
-      url     : "mailto:jbisits@gmail.com"
+      icon  : "fas fa-fw fa-envelope-square"
+      url   : "mailto:jbisits@gmail.com"
   #links:
   #  - label: "GitHub"
   #    icon: "fab fa-fw fa-github"
