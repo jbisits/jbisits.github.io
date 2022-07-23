@@ -20,5 +20,5 @@ Maybe put this?
 
 ## Software
 
-I use [Julia](https://julialang.org/) as it is excellent for scientific computing.
+I use the [Julia](https://julialang.org/) programming language as it is excellent for scientific computing, open source and has a great community.
 I am currently involved in the development of [PassiveTracerFlows.jl](https://fourierflows.github.io/PassiveTracerFlowsDocumentation/stable/).
