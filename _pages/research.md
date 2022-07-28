@@ -8,7 +8,7 @@ The focus of my PhD are the *Non-linear controls on ocean circulation and mixing
 The non-linear equation of state for the density of seawater leads to interesting phenomena, such as a gain in density when two water masses of equal density, but differing temperature and salinity, are mixed.
 Though these non-linear processes are not leading order, the may be placing controls on water mass transformation in the Southern Ocean.
 
-![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I am based at the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/).
+![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I am based at the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/) Sydney, Australia.
 
 ![image-left](/assets/images/ACEAS_logo_1.png){: .align-left style="width: 50%;"} I am also part of the the [Antarctic Centre for Excellence in Antarctic Science](https://antarctic.org.au/).
 
@@ -39,5 +39,5 @@ Maybe put this?
 
 ## Software
 
-I use the [Julia](https://julialang.org/) programming language as it is excellent for scientific computing, open source and has a great community.
+![image-left](/assets/images/Julia_Programming_Language_Logo.svg) Image from the [Julia wikipedia page](https://en.wikipedia.org/wiki/Julia_(programming_language)){: .align-left style="width: 20%;"}I use the [Julia](https://julialang.org/) programming language as it is excellent for scientific computing, open source and has a great community.
 I am currently involved in the development of [PassiveTracerFlows.jl](https://fourierflows.github.io/PassiveTracerFlowsDocumentation/stable/).
