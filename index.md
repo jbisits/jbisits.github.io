@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: true
-#header:
-#  image: /assets/images/Littlebay_backdrop.png
-#classes: wide
+header:
+  image: /assets/images/Littlebay_backdrop.png
 ---
 
 I am a PhD candidate and professional double bassist living in Syndey, Australia.
