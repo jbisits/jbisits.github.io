@@ -15,7 +15,7 @@ Since 2013 I have been a regular guest musician with the Sydney symphony orchest
 As much as I loved music and playing the double bass I did retain some other interests.
 One of these was literature, mainly due to a David Foster Wallace obsession.
 This obsession also led to me rediscover my enjoyment of mathematics due to his book [Everything and more](https://en.wikipedia.org/wiki/Everything_and_More_(book)).
-This rediscovery led me back to university in the second half of 2016 to being a bachelor of science with a major in mathematics.
+This rediscovery led me back to university in the second half of 2016 to begin a bachelor of science with a major in mathematics.
 When I started I was not really sure where it would take me, I just enjoyed the maths and the mental stimulation that studying brings!
 I was lucky to have great supervisors ([Associate Professor Jan Zika](https://sites.google.com/view/janzika/home) and [Dr Geoff Stanley](https://geoffstanley.github.io/)) for my honours project one of whom even took me on to do a PhD!
 
