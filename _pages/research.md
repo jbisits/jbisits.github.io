@@ -9,7 +9,8 @@ The non-linear equation of state for the density of seawater leads to interestin
 Though these non-linear processes are not leading order, the may be placing controls on water mass transformation in the Southern Ocean.
 
 ![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I am based at the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/).
-![image-left](/assets/images/ACEAS_logo_1.png){: .align-left style="width: 30%;"} I am also part of the the [Antarctic Centre for Excellence in Antarctic Science](https://antarctic.org.au/).
+
+![image-left](/assets/images/ACEAS_logo_1.png){: .align-left style="width: 50%;"} I am also part of the the [Antarctic Centre for Excellence in Antarctic Science](https://antarctic.org.au/).
 
 ## Non-linear controls on water masses
 
