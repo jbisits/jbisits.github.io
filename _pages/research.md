@@ -37,8 +37,16 @@ Maybe put this?
 
 1. *Can we accurately quantify a lateral diffusivity from a single tracer release?* Bisits, J.I., Stanley, G.J., Zika, J.D, (submitted to Jounral Physical Oceanography)
 
+## Conferences, seminars and workshops
+
+- *[A Strange Love: How I Learned to Stop Worrying and Love Mathematics](https://youtu.be/X0MHSEBi7bQ)* panel discussion as part of the Student Symposium in Combinatorics 2022.
+
+## Teaching
+
+- Mathematics 1A (University of New South Wales)
+- University of New South Wales mathematics drop in centre
+
 ## Software
 
-![image-left](/assets/images/Julia_Programming_Language_Logo.svg){: .align-left style="width: 20%;"} I use the [Julia programming language](https://julialang.org/) as it is excellent for scientific computing, open source and has a great community.
+![image-left](/assets/images/Julia_Programming_Language_Logo.svg){: .align-left style="width: 20%;"} I use the [Julia programming language](https://julialang.org/) as it is excellent for scientific computing, open source and has a great community (Image from the [Julia wikipedia page](https://en.wikipedia.org/wiki/Julia_(programming_language))).
 I am currently involved in the development of [PassiveTracerFlows.jl](https://fourierflows.github.io/PassiveTracerFlowsDocumentation/stable/).
-(Image from the [Julia wikipedia page](https://en.wikipedia.org/wiki/Julia_(programming_language))).
