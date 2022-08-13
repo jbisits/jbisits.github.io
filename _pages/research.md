@@ -41,7 +41,7 @@ Maybe put this?
 
 - *[A Strange Love: How I Learned to Stop Worrying and Love Mathematics](https://youtu.be/X0MHSEBi7bQ)* panel discussion as part of the Student Symposium in Combinatorics 2022.
 
-## Teaching
+## Tutoring
 
 - Mathematics 1A (University of New South Wales)
 - University of New South Wales mathematics drop in centre
