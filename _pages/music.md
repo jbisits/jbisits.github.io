@@ -20,7 +20,7 @@ Eventually I tired of the London drizzle so moved back to Sydney at the end of 2
 As part of this program I got to see a lot of Australia through regional touring in New South Wales, Queensland, Victoria, Western Australia and Tasmania.
 
 From 2014 till the present I have been a freelance double bass player working with the Sydney Symphony Orchestra, Australian Chamber Orchestra and Opera Australia.
-Some musical highlights from this period have been [Beethoven's fifth symphony with the Australina Chamber Orchestra](https://www.youtube.com/watch?v=bKFLH-y6Ao0), *The Marriage of Figaro* with Opera Australia and *Beethoven's sixth symphony* with the Sydney Symphony Orchestra.
+Some musical highlights from this period have been [Beethoven's fifth symphony with the Australina Chamber Orchestra](https://www.youtube.com/watch?v=bKFLH-y6Ao0), *The Marriage of Figaro* and *Don Giovanni* with Opera Australia and *Beethoven's sixth symphony* with the Sydney Symphony Orchestra.
 
 In 2019 I was part of an adaption of the children's book [There is a Sea in my Bedroom](https://www.youtube.com/watch?v=DRGKj2V3CTs) where I even did some acting!!
 
