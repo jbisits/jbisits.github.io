@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+toc: true
 ---
 
 My area of research is physical oceanography.
@@ -27,15 +28,15 @@ Another area I have interest in is isopycnal mixing (mixing along surfaces of co
 Isopycnal mixing in the Southern Ocean is important for the global climate as it influences the uptake and transport of heat and carbon.
 We have explored estimating isopycnal mixing based on the spreading of passive tracer release experiments and how reliable an estimate can be made based on the spreading of a single tracer release experiment as is usually the case for observational campaigns.
 
-<!--
-## Water quality
+## Water quality modelling and prediction
 
-Maybe put this?
--->
+As a research assistant I worked with [Associate Lecturer Simon Llyod](https://www.unsw.edu.au/staff/simon-lloyd) on processing and analysing data that was used to develop the [RiverWatch model](https://urbanplunge.sydneywater.com.au/content/dam/sydneywater/urban-plunge/documents/Riverwatch%20Predictive%20Model%20fact%20sheet_online.pdf).
+This model is a predictive water quality model used to predict the amount of pollution, and consequently whether water is safe to swim in.
 
 ## Publications
 
 1. **Bisits, Josef I.**, Stanley, Geoffrey J., Zika, Jan D. 2022: Can we accurately estimate a lateral diffusivity from a single tracer release?, *Journal of Physical Oceanography*, DOI: [10.1175/JPO-D-22-0145.1](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-22-0145.1/JPO-D-22-0145.1.xml).
+2. Lloyd, Simon D., **Bisits, Josef I.**, Roser, David J., Khan, Stuart J., 2023: Assessing the impact of stormwater contamination events in urban estuaries proposed for bathing, (in prep).
 
 ## Conferences, seminars and workshops
 
@@ -45,9 +46,9 @@ Maybe put this?
 
 - *[A Strange Love: How I Learned to Stop Worrying and Love Mathematics](https://youtu.be/X0MHSEBi7bQ)* panel discussion as part of the Student Symposium in Combinatorics 2022.
 
-## Tutoring
+## Teaching
 
-- Mathematics 1A (University of New South Wales)
+- Mathematics 1A classroom tutor (University of New South Wales)
 - University of New South Wales mathematics drop in centre
 
 ## Software
