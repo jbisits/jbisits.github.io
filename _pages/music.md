@@ -1,6 +1,7 @@
 ---
 permalink: /music/
 title: "Music"
+toc: true
 ---
 
 I began to learn the double bass when I was fourteen with Paul Laszlo.
