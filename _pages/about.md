@@ -4,6 +4,14 @@ title: "About"
 toc: true
 ---
 
+## Education
+
+- Doctor of Philosophy ([School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths), University of New South Wales) under supervision of Associate Professor Jan Zika (2022 - present)
+- Bachelor of Science (Advanced Mathematics) (Honours) major in applied mathematics, University of New South Wales (2021)
+- Bachelor of Music (Performance), University of Sydney (2010)
+
+## Brief bio
+
 I grew up in Newcastle, NSW.
 I started playing the double bass at age 14 and, largely due to a wonderful teacher named Paul Laszlo, it quickly became the only thing I was really interested in.
 I moved to Sydney in 2007 to study double bass at the Sydney conservatorium.
@@ -21,9 +29,3 @@ When I started I was not really sure where it would take me, I just enjoyed the 
 I was lucky to have great supervisors ([Associate Professor Jan Zika](https://sites.google.com/view/janzika/home) and [Dr Geoff Stanley](https://geoffstanley.github.io/)) for my honours project one of whom even took me on to do a PhD!
 
 Currenlty I am in the second year of my PhD and continuing to work as a freelance double bassist.
-
-## Education
-
-- Doctor of Philosophy ([School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths), University of New South Wales) under supervision of Associate Professor Jan Zika (2022 - present)
-- Bachelor of Science (Advanced Mathematics) (Honours) major in applied mathematics, University of New South Wales (2021)
-- Bachelor of Music (Performance), University of Sydney (2010)
