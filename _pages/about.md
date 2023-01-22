@@ -1,7 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 toc: true
+toc_label: "About me"
 ---
 
 ## Education
