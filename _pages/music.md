@@ -3,6 +3,7 @@ permalink: /music/
 title: "Music"
 toc: true
 toc_label: "Music"
+toc_icon: "music"
 ---
 
 I began to learn the double bass when I was fourteen with Paul Laszlo.

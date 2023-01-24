@@ -3,6 +3,7 @@ permalink: /research/
 title: "Research"
 toc: true
 toc_label: "Research"
+toc_icon: "book-open"
 ---
 
 My area of research is physical oceanography.

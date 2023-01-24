@@ -3,6 +3,7 @@ permalink: /about/
 title: "About me"
 toc: true
 toc_label: "About me"
+toc: "user"
 ---
 
 ## Education
@@ -30,3 +31,4 @@ When I started I was not really sure where it would take me, I just enjoyed the 
 I was lucky to have great supervisors ([Associate Professor Jan Zika](https://sites.google.com/view/janzika/home) and [Dr Geoff Stanley](https://geoffstanley.github.io/)) for my honours project one of whom even took me on to do a PhD!
 
 Currenlty I am in the second year of my PhD and continuing to work as a freelance double bassist.
+In my spare time I play and watch lots of tennis, read and spend time with my family.
