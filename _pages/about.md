@@ -3,7 +3,7 @@ permalink: /about/
 title: "About me"
 toc: true
 toc_label: "About me"
-toc: "user"
+toc: "user-alt"
 ---
 
 ## Education
