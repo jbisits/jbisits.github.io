@@ -5,7 +5,5 @@ author_profile: true
 #  image: /assets/images/Littlebay_backdrop.jpeg
 ---
 
-I am a PhD candidate and professional double bassist living in Sydney, Australia.
-
-There is more information about my research and the projects I am involved in [here](https://jbisits.github.io/research/).
-For information about my music work click [here](https://jbisits.github.io/music/) and for information about me click [here](https://jbisits.github.io/about/).
+I am a PhD candidate in the School of Mathematics and Statistics at the University of New South Wales and professional double bassist living in Sydney, Australia.
+This website contains information [about](https://jbisits.github.io/about/) me, my current [CV](https://github.com/jbisits/Josef-Bisits-CV/blob/main/current/Jan23_noaddress.pdf), my [music](https://jbisits.github.io/music/) work and my [research](https://jbisits.github.io/research/).
