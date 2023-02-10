@@ -37,7 +37,7 @@ This model is a predictive water quality model used to predict the amount of pol
 
 ## Publications
 
-1. **Bisits, Josef I.**, Stanley, Geoffrey J., Zika, Jan D. 2022: Can we accurately estimate a lateral diffusivity from a single tracer release?, *Journal of Physical Oceanography*, DOI: [10.1175/JPO-D-22-0145.1](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-22-0145.1/JPO-D-22-0145.1.xml).
+1. **Bisits, Josef I.**, Stanley, Geoffrey J., Zika, Jan D. 2023: Can we accurately estimate a lateral diffusivity from a single tracer release?, *Journal of Physical Oceanography*, **53**, 647-659, DOI: [10.1175/JPO-D-22-0145.1](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-22-0145.1/JPO-D-22-0145.1.xml).
 2. Lloyd, Simon D., **Bisits, Josef I.**, Roser, David J., Khan, Stuart J., 2023: Assessing the impact of stormwater contamination events in urban estuaries proposed for bathing, (in prep).
 
 ## Conferences, seminars and workshops
