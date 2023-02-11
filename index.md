@@ -6,4 +6,9 @@ author_profile: true
 ---
 
 I am a PhD candidate in the School of Mathematics and Statistics at the University of New South Wales and professional double bassist living in Sydney, Australia.
-This website contains information [about](https://jbisits.github.io/about/) me, my current [CV](files/Josef_Bisits_CV.pdf), my [music](https://jbisits.github.io/music/) work and my [research](https://jbisits.github.io/research/).
+This website contains information [about][about-page] me, my current [CV][cv-pdf], my [music][music-page] work and my [research][research-page].
+
+[about-page]: https://jbisits.github.io/about/
+[music-page]: https://jbisits.github.io/music/
+[research-page]: https://jbisits.github.io/research/
+[cv-pdf]: https://nbviewer.org/github/jbisits/Josef-Bisits-CV/blob/main/main.pdf
