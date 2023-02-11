@@ -44,4 +44,6 @@ Since 2015 I have been co-artistic director of the [Craven Creek Music Festival]
 - Southbank Sinfonia (2011)
 - Sydney Symphony Fellowship (2010)
 - Australin Youth Orchestra (2007-2008)
-- Sydney Youth Orchestra (2006 - 2008)
+- Sydney Youth Orchestra (2006-2008)
+- AYO National Music Camp (2006-2007)
+- AYO Young Symphonists (2005)
