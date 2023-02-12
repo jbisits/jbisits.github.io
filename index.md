@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 header:
   overlay_image: /assets/images/Littlebay_backdrop.jpeg
+  caption: "Little bay, Sydney"
 ---
 
 I am a PhD candidate in the School of Mathematics and Statistics at the University of New South Wales and professional double bassist living in Sydney, Australia.
