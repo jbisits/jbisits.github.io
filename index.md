@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_image: /assets/images/Littlebay_backdrop.jpeg
+  overlay_image: /assets/images/Littlebay_backdrop_v2.jpeg
   caption: "Little bay, Sydney"
 ---
 
