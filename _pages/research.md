@@ -42,7 +42,7 @@ This model is a predictive water quality model used to predict the amount of pol
 
 ## Conferences, seminars and workshops
 
-- **Bisits, Josef I.**, Can we accurately estimate a lateral diffusivity from a single tracer release? Novmeber 28th 2022. *Australian Meteorological and Oceanographic society annual conference 27th Noveember - 1st December 2022.* (Oral presentation)
+- **Bisits, Josef I.**, Can we accurately estimate a lateral diffusivity from a single tracer release? Novmeber 28th 2022. *Australian Meteorological and Oceanographic society annual conference 27th November - 1st December 2022.* (Oral presentation)
 
 - **Bisits, Josef I.**: Can we accurately estimate a lateral diffusivity from a single tracer release?, November 9th 2022. *Australian Centre for Excellence in Antarctic Science workshop 8-9th November 2022.* (Poster presentation)
 
