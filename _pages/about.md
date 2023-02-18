@@ -4,6 +4,8 @@ title: "About me"
 toc: true
 toc_label: "About me"
 toc_icon: "user-circle"
+header:
+  overlay_color: "#333"
 ---
 
 ## Education
@@ -12,10 +14,10 @@ toc_icon: "user-circle"
 - Bachelor of Science (Advanced Mathematics) (Honours) major in applied mathematics, University of New South Wales (2021)
 - Bachelor of Music (Performance), University of Sydney (2010)
 
-## Brief bio
+## Brief biography
 
 I grew up in Newcastle, NSW.
-I started playing the double bass at age 14 and, largely due to a wonderful teacher named Paul Laszlo, it quickly became the only thing I was really interested in.
+I started playing the double bass at age 14 and, largely due to my teacher named Paul Laszlo, it quickly became the only thing I was really interested in.
 I moved to Sydney in 2007 to study double bass at the Sydney conservatorium.
 In 2010 I was a [Sydney Symphony fellow](https://www.sydneysymphony.com/learning/sydney-symphony-fellowship).
 In 2011 I moved to London to take part in the [Southbank Sinfonia](https://www.southbanksinfonia.co.uk/) orchestral training program.

@@ -4,6 +4,9 @@ title: "Music"
 toc: true
 toc_label: "Music"
 toc_icon: "music"
+header:
+  overlay_image: /assets/images/old_barn.jpeg
+  caption: "The old barn, Kingfisher farm"
 ---
 
 I began to learn the double bass when I was fourteen with Paul Laszlo.
@@ -26,6 +29,7 @@ From 2014 till the present I have been a freelance double bass player working wi
 Some musical highlights from this period have been [Beethoven's fifth symphony with the Australina Chamber Orchestra](https://www.youtube.com/watch?v=bKFLH-y6Ao0), *The Marriage of Figaro* and *Don Giovanni* with Opera Australia and *Beethoven's sixth symphony* with the Sydney Symphony Orchestra. In 2019 I was part of an adaption of the children's book [There is a Sea in my Bedroom](https://www.youtube.com/watch?v=DRGKj2V3CTs) where I even did some acting!!
 
 Since 2015 I have been co-artistic director of the [Craven Creek Music Festival](https://www.cravencreekmusic.com/) with my partner Heather Lindsay.
+This festival is a weekend of chamber music concerts in "the old barn" (see the overlay image).
 
 ## Orchestral Experience
 
