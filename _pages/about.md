@@ -8,6 +8,8 @@ header:
   overlay_color: "#333"
 ---
 
+For more information about my work and education to date please see my [CV][cv-pdf]
+
 ## Education
 
 - Doctor of Philosophy ([School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths), University of New South Wales) under supervision of Associate Professor Jan Zika (2022 - present)
@@ -34,3 +36,5 @@ I was lucky to have great supervisors ([Associate Professor Jan Zika](https://si
 
 Currenlty I am in the second year of my PhD and continuing to work as a freelance double bassist.
 In my spare time I play and watch lots of tennis, read and spend time with my family.
+
+[cv-pdf]: https://nbviewer.org/github/jbisits/Josef-Bisits-CV/blob/main/main.pdf

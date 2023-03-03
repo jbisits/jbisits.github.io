@@ -3,6 +3,8 @@ permalink: /research/
 title: "Research"
 #header:
 #  overlay_image: /assets/images/tracer_plots1.png
+header:
+  overlay_color: "#333"
 toc: true
 toc_label: "Research"
 toc_icon: "book-open"
