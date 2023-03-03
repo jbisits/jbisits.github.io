@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
 ---
 
-For more information about my work and education to date please see my [CV][cv-pdf]
+For more information about my work and education to date please see my [CV][cv-pdf].
 
 ## Education
 
