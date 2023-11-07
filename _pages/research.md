@@ -2,7 +2,7 @@
 permalink: /research/
 title: "Research"
 header:
-  overlay_image: /assets/images/density.jpg
+  overlay_image: /assets/images/density.png
 toc: true
 toc_label: "Research"
 toc_icon: "book-open"
