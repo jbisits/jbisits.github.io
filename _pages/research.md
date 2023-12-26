@@ -26,7 +26,7 @@ Though these non-linear processes are not leading order, the may be placing cont
 
 ![image-left](/assets/images/ACEAS_logo_1.png){: .align-left style="width: 50%;"} I am also part of the the [Antarctic Centre for Excellence in Antarctic Science](https://antarctic.org.au/).
 
-## Does cabbeling shape the thermohaline structure of the high-latitude oceans?
+### Does cabbeling shape the thermohaline structure of the high-latitude oceans?
 
 In the first project of my PhD, we are investigating whether a non-linear process called [*cabbeling*](https://en.wikipedia.org/wiki/Cabbeling) is influencing the thermohaline structure of temperature inverted profiles in the global ocean.
 The Antarctic winter causes the surface water to approach its freezing point.
@@ -34,7 +34,7 @@ If brine rejection occurs due to sea ice formation, then the density of the wint
 Once the salinity of the surface water reaches a critical value, relatively warm and salty deep water that is upwelled to the surface can mix with this winter surface water resulting in a more dense water mass forming (as a result of cabbeling) that can trigger a gravitational instability and convective mixing.
 We are developing a criteria to diagnose when a water column will be unstable to cabbeling, but still statically stable, using model output and in-situ observations.
 
-## The cabbeling instability in Direct Numerical Simulations
+### The cabbeling instability in Direct Numerical Simulations
 
 In my second project we are using Direct Numerical Simulations to explore the mixing that cabbeling can trigger in marginally stable, temperature inverted profiles.
 

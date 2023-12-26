@@ -9,6 +9,8 @@ header:
   caption: "The old barn, Kingfisher farm"
 ---
 
+## Music educuation
+
 I began to learn the double bass when I was fourteen with Paul Laszlo.
 Soon after starting I joined the Hunter strings ensemble.
 In 2005 I took part in the Young Symphonists program with the Australian Youth Orchestra (AYO).
@@ -25,13 +27,15 @@ This led to many performances in and around London at venues such as the Royal F
 Eventually I tired of the London drizzle so I moved back to Sydney at the end of 2012 and in 2013 I was an emerging artist with the Australian Chamber Orchestra.
 As part of this program I got to see a lot of Australia through regional touring in New South Wales, Queensland, Victoria, Western Australia and Tasmania.
 
+## Professional career
+
 From 2014 till the present I have been a freelance double bass player working with the Sydney Symphony Orchestra, Australian Chamber Orchestra and the Opera Australia Orchestra.
 Some musical highlights from this period have been [Beethoven's fifth symphony with the Australina Chamber Orchestra](https://www.youtube.com/watch?v=bKFLH-y6Ao0), *The Marriage of Figaro* and *Don Giovanni* with Opera Australia and *Beethoven's sixth symphony* with the Sydney Symphony Orchestra. In 2019 I was part of an adaption of the children's book [There is a Sea in my Bedroom](https://www.youtube.com/watch?v=DRGKj2V3CTs) where I even did some acting!!
 
 Since 2015 I have been co-artistic director of the [Craven Creek Music Festival](https://www.cravencreekmusic.com/) with my partner Heather Lindsay.
 This festival is a weekend of chamber music concerts in "the old barn" (see the overlay image).
 
-## Orchestral Experience
+### Orchestral Experience
 
 - Opera Australia Ocrhestra
 - Australian Chamber Orchestra
@@ -42,7 +46,7 @@ This festival is a weekend of chamber music concerts in "the old barn" (see the 
 - Ironwood Chamber Ensemble
 - Australian Romantic and Classical Orchestra
 
-## Orchestral training
+### Orchestral training
 
 - Australian Chamber Orchestra Emerging Artist (2013)
 - Southbank Sinfonia (2011)
