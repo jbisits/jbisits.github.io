@@ -65,27 +65,25 @@ author:
   location : "Sydney, Australia"
   github   : "jbisits"
   linkedin : "josef-bisits-066253123"
-  twitter  : "@JBisits"
   links    :
     - label : "Orcid"
       icon  : "fab fa-fw fa-orcid"
       url   : "https://orcid.org/0000-0002-6340-4470"
+    - label: "Google scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: https://scholar.google.com/citations?user=Ti3BqtMAAAAJ&hl=en
     - label : "Email"
       icon  : "fas fa-fw fa-envelope-square"
       url   : "mailto:jbisits@gmail.com"
-  #links:
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: https://github.com/jbisits
-  #  - label: "LinkedIn"
-  #    icon: "fab fa-fw fa-linkedin"
-  #    url: "https://www.linkedin.com/in/josef-bisits-066253123/"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Google scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: https://scholar.google.com/citations?user=Ti3BqtMAAAAJ&hl=en
 
 defaults:
 
