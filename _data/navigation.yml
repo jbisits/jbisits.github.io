@@ -5,6 +5,8 @@ main:
     url: /research/
   - title: "Music"
     url: /music/
+  - title: "Publications and presentations"
+    url: /publications
 # In case I ever feel like writing blogs..
 #  - title: "Posts"
 #    url: /posts/
