@@ -57,6 +57,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-scholar
 
 author:
   name     : "Josef Bisits"
@@ -107,6 +108,9 @@ defaults:
       layout: single
       author_profile: true
 
+scholar:
+  style: modern-language-association
+  bibliography: "papers.bib"
 #category_archive:
 #  type: liquid
 #  path: /categories/
