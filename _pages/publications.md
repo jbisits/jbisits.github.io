@@ -1,5 +1,5 @@
 ---
-permalink: /publications_and_presentations/
+permalink: /publications/
 title: "Publications"
 ---
 
