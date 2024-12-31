@@ -109,7 +109,7 @@ defaults:
       author_profile: true
 
 scholar:
-  style: modern-language-association
+  style: apa
 #category_archive:
 #  type: liquid
 #  path: /categories/
