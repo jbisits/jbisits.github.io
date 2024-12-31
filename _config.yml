@@ -110,7 +110,6 @@ defaults:
 
 scholar:
   style: modern-language-association
-  bibliography: papers.bib
 #category_archive:
 #  type: liquid
 #  path: /categories/

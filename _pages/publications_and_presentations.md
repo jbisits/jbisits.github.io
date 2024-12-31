@@ -5,4 +5,4 @@ title: "Publications and presentations"
 
 ## Publications
 
-{% bibliography %}
+{% bibliography --file papers %}
