@@ -48,21 +48,6 @@ We explored estimating isopycnal mixing based on the spreading of passive tracer
 As a research assistant I worked with [Associate Lecturer Simon Llyod](https://www.unsw.edu.au/staff/simon-lloyd) on processing and analysing data that was used to develop the [RiverWatch model](https://urbanplunge.sydneywater.com.au/content/dam/sydneywater/urban-plunge/documents/Riverwatch%20Predictive%20Model%20fact%20sheet_online.pdf).
 This model is a predictive water quality model used to predict the amount of pollution, and consequently whether water is safe to swim in.
 
-## Publications
-
-1. **Bisits, Josef I.**, Stanley, Geoffrey J., Zika, Jan D. 2023: Can we accurately estimate a lateral diffusivity from a single tracer release?, *Journal of Physical Oceanography*, **53(2)**, 647-659, DOI: [10.1175/JPO-D-22-0145.1](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-22-0145.1/JPO-D-22-0145.1.xml).
-2. Lloyd, Simon D., **Bisits, Josef I.**, Roser, David J., Khan, Stuart J., 2023: Assessing the impact of stormwater contamination events in urban estuaries proposed for bathing, (in prep).
-
-## Conferences, seminars and workshops
-
-- **Bisits, Josef I.**, Can we accurately estimate a lateral diffusivity from a single tracer release? *28TH GENERAL ASSEMBLY OF THE INTERNATIONAL UNION OF GEODESY AND GEOPHYSICS* Berlin, 11-20 JULY 2023 (Oral presentation)
-
-- *Physics of the Ocean summer school*, presented poster: Does cabbeling shape the thermohaline structure of the high latitude oceans? Bad Honnef, July 2023.
-
-- **Bisits, Josef I.**, Can we accurately estimate a lateral diffusivity from a single tracer release? Novmeber 28th 2022. *29th Australian Meteorological and Oceanographic society annual conference* Adelaide, 27th November - 1st December 2022. (Oral presentation)
-
-- *[A Strange Love: How I Learned to Stop Worrying and Love Mathematics](https://youtu.be/X0MHSEBi7bQ)* panel discussion as part of the Student Symposium in Combinatorics 2022.
-
 ## Teaching
 
 - Mathematics 1A (MATH1131) classroom tutor (University of New South Wales)

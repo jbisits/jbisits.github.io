@@ -3,10 +3,10 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  - title: "Music"
-    url: /music/
   - title: "Publications and presentations"
     url: /publications/
+  - title: "Music"
+    url: /music/
 # In case I ever feel like writing blogs..
 #  - title: "Posts"
 #    url: /posts/
