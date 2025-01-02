@@ -12,4 +12,4 @@ toc: true
 
 ## Presentations
 
-{% bibliography --file presentations %}
+{% bibliography --file presentations --query @*[keywords=oral] %}
