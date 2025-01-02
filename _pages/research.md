@@ -14,7 +14,7 @@ Once such tracers have made it into the ocean, their transport is then strongly 
 
 Broadly speaking ocean mixing can be categorised into *lateral* (isopyncal) and *vertical* (across isopycnals) mixing.
 During my honours year I worked on methods to estimate lateral mixing from simulated tracer release experiments, and how accurate such estimates are when only using a single tracer release.
-My PhD is investigating how non-linear mixing processes affect marginally stable temperature inverted profiles in the high latitude oceans.
+My PhD is investigating how non-linearities in the equation of state for seawater density lead to processes which influence mixing in the hihg-latitude oceans.
 
 ## PhD project
 
@@ -47,14 +47,3 @@ We explored estimating isopycnal mixing based on the spreading of passive tracer
 
 As a research assistant I worked with [Associate Lecturer Simon Llyod](https://www.unsw.edu.au/staff/simon-lloyd) on processing and analysing data that was used to develop the [RiverWatch model](https://urbanplunge.sydneywater.com.au/content/dam/sydneywater/urban-plunge/documents/Riverwatch%20Predictive%20Model%20fact%20sheet_online.pdf).
 This model is a predictive water quality model used to predict the amount of pollution, and consequently whether water is safe to swim in.
-
-## Teaching
-
-- Mathematics 1A (MATH1131) classroom tutor (University of New South Wales)
-- Numerical methods and statistics (MATH2089) classroom tutor (University of New South Wales)
-- University of New South Wales mathematics drop in centre
-
-## Software
-
-![image-left](/assets/images/Julia_Programming_Language_Logo.svg){: .align-left style="width: 20%;"} I use the [Julia programming language](https://julialang.org/) as it is excellent for scientific computing, open source and has a great community (Image from the [Julia wikipedia page](https://en.wikipedia.org/wiki/Julia_(programming_language))).
-I am currently involved in the development of [PassiveTracerFlows.jl](https://fourierflows.github.io/PassiveTracerFlowsDocumentation/stable/) and the owner and maintainer of the packages: [TwoLayerDirectNumericalShenanigans.jl](https://github.com/jbisits/TwoLayerDirectNumericalShenanigans.jl), [RasterHistograms.jl](https://github.com/jbisits/RasterHistograms.jl) and [OceanRasterConversions.jl](https://jbisits.github.io/OceanRasterConversions.jl/dev/).
