@@ -10,6 +10,10 @@ toc: true
 
 {% bibliography --file papers %}
 
-## Presentations
+## Oral presentations
 
-{% bibliography --file presentations --query @*[keywords=oral] %}
+{% bibliography --file presentations --query @*[addendum='Poster presentation'] %}
+
+## Poster presentations
+
+{% bibliography --file presentations --query @*[addendum='Poster presentation'] %}
