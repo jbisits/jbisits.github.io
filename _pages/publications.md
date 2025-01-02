@@ -12,8 +12,8 @@ toc: true
 
 ## Oral presentations
 
-{% bibliography --file presentations --query @*[addendum={Oral presentation}] %}
+{% bibliography --file presentations --query @*[addendum=Oral presentation] %}
 
 ## Poster presentations
 
-{% bibliography --file presentations --query @*[addendum={Poster presentation}] %}
+{% bibliography --file presentations --query @*[addendum=Poster presentation] %}
