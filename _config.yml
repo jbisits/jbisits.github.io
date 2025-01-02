@@ -110,6 +110,8 @@ defaults:
 
 scholar:
   style: apa
+  bibliography_template: "{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}"
+
 #category_archive:
 #  type: liquid
 #  path: /categories/
