@@ -2,7 +2,7 @@
 permalink: /software/
 title: "Software"
 header:
-  overlay_image: /assets/images/Julia_Programming_Language_Logo.svg
+  overlay_image: https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color-white-background.svg
   caption: "Julia logo from https://github.com/JuliaLang/julia-logo-graphics"
 ---
 
