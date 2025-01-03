@@ -13,12 +13,13 @@ Ocean mixing is a key part of the climate system as it influences the rate and a
 Once such tracers have made it into the ocean, their transport is then strongly influenced by (you guessed it) ocean mixing!
 
 Broadly speaking ocean mixing can be categorised into *lateral* (isopyncal) and *vertical* (across isopycnals) mixing.
-During my honours year I worked on methods to estimate lateral mixing from simulated tracer release experiments, and how accurate such estimates are when only using a single tracer release.
-My PhD is investigating how non-linearities in the equation of state for seawater density lead to processes which influence mixing in the hihg-latitude oceans.
+Turbulent mixing occurs down to sub-millimetre length scales which can be simulated but the computational cost of doing so, as well as the amount of data that is produced, makes this currently impossible.
+This limitation means that in global ocean circulation models many mixing processes need to be parameterised.
+Continued research on mixing in the ocean is needed for improvements to how mixing is represented (i.e. parameterised) in global ocean circulation models.
 
 ## PhD project
 
-The title of my PhD are the *Non-linear controls on ocean circulation and mixing in the marginal ice zone*.
+The title of my PhD thesis is: *Non-linear controls on ocean circulation and mixing in the marginal ice zone*.
 The non-linear equation of state for the density of seawater leads to interesting phenomena, such as a gain in density when two water masses of equal density, but differing temperature and salinity, are mixed.
 Though these non-linear processes are not leading order, the may be placing controls on water mass transformation in the Southern Ocean.
 
@@ -28,22 +29,25 @@ Though these non-linear processes are not leading order, the may be placing cont
 
 ### Does cabbeling shape the thermohaline structure of the high-latitude oceans?
 
-In the first project of my PhD, we are investigating whether a non-linear process called [*cabbeling*](https://en.wikipedia.org/wiki/Cabbeling) is influencing the thermohaline structure of temperature inverted profiles in the global ocean.
+In the first project of my PhD, we investigated whether a non-linear process called [*cabbeling*](https://en.wikipedia.org/wiki/Cabbeling) is influencing the thermohaline structure of temperature inverted profiles in the global ocean.
 The Antarctic winter causes the surface water to approach its freezing point.
 If brine rejection occurs due to sea ice formation, then the density of the winter surface water increases.
 Once the salinity of the surface water reaches a critical value, relatively warm and salty deep water that is upwelled to the surface can mix with this winter surface water resulting in a more dense water mass forming (as a result of cabbeling) that can trigger a gravitational instability and convective mixing.
-We are developing a criteria to diagnose when a water column will be unstable to cabbeling, but still statically stable, using model output and in-situ observations.
+We developed a criteria to diagnose when a water column will be unstable to cabbeling, but still statically stable, using model output and in-situ observations.
 
-### The cabbeling instability in Direct Numerical Simulations
+### Cabbeling as a catalyst and driver of turbulent mixing
 
-In my second project we are using Direct Numerical Simulations to explore the mixing that cabbeling can trigger in marginally stable, temperature inverted profiles.
+The first project of my PhD demonstrated the influence cabbeling is having in the high-latitude oceans but was unable to address whether cabbeling is able to trigger and drive turbulent mixing.
+To investigate this we used Direct Numerical Simulations which simulate all length scales of motion to determine how cabbeling impacts mixing and the energetics of mixing.
+To our knowledge this was the first turbulence resolving simulation to simulate cabbeling which we found can trigger and drive rapid turbulent mixing as well as create a source of available potential energy.
 
-## Isopycnal mixing
+## Estimating isopycnal mixing
 
-Isopycnal mixing in the Southern Ocean is important for the global climate as it influences the uptake and transport of heat and carbon.
-We explored estimating isopycnal mixing based on the spreading of passive tracer release experiments and how reliable an estimate can be made based on the spreading of a single tracer release experiment as is usually the case for observational campaigns.
+Isopycnal (i.e. lateral) mixing in the Southern Ocean is important for the global climate as it influences the uptake and transport of heat and carbon.
+During my honours year I worked on methods to estimate lateral mixing from simulated tracer release experiments.
+The goal was to assess how accurate an estimate of lateral mixing is if there is only data available from a single tracer release experiment (as is the case in observational campaigns such as [DIMES](https://dimes.ucsd.edu/)).
 
 ## Water quality modelling and prediction
 
 As a research assistant I worked with [Associate Lecturer Simon Llyod](https://www.unsw.edu.au/staff/simon-lloyd) on processing and analysing data that was used to develop the [RiverWatch model](https://urbanplunge.sydneywater.com.au/content/dam/sydneywater/urban-plunge/documents/Riverwatch%20Predictive%20Model%20fact%20sheet_online.pdf).
-This model is a predictive water quality model used to predict the amount of pollution, and consequently whether water is safe to swim in.
+This model is a predictive water quality model used to predict the amount of pollution, and consequently whether water is safe, to swim in.
