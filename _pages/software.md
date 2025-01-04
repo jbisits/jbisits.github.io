@@ -2,8 +2,7 @@
 permalink: /software/
 title: "Software"
 header:
-  overlay_image: /assets/images/julia-logo-color-large.png
-  caption: "Julia logo from https://github.com/JuliaLang/julia-logo-graphics"
+    overlay_color: "#333"
 ---
 
 I use the [Julia programming language](https://julialang.org/) as it is excellent for scientific computing, open source and has a great community.
