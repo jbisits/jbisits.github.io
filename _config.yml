@@ -86,6 +86,9 @@ footer:
       icon: "fa-brands fa-google-scholar"
       url: https://scholar.google.com/citations?user=Ti3BqtMAAAAJ&hl=en
 
+atom_feed:
+  hide: true
+
 defaults:
 
   # _posts
