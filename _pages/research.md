@@ -17,6 +17,8 @@ Turbulent mixing occurs down to sub-millimetre length scales which can be simula
 This limitation means that in global ocean circulation models many mixing processes need to be parameterised.
 Continued research on mixing in the ocean is needed for improvements to how mixing is represented (i.e. parameterised) in global ocean circulation models.
 
+For more information about any of the projects below see the relevant [publications][pubs-page] or feel free to email me.
+
 ## PhD project
 
 The title of my PhD thesis is: *Non-linear controls on ocean circulation and mixing in the marginal ice zone*.
@@ -51,3 +53,5 @@ The goal was to assess how accurate an estimate of lateral mixing is if there is
 
 As a research assistant I worked with [Associate Lecturer Simon Llyod](https://www.unsw.edu.au/staff/simon-lloyd) on processing and analysing data that was used to develop the [RiverWatch model](https://urbanplunge.sydneywater.com.au/content/dam/sydneywater/urban-plunge/documents/Riverwatch%20Predictive%20Model%20fact%20sheet_online.pdf).
 This model is a predictive water quality model used to predict the amount of pollution, and consequently whether water is safe, to swim in.
+
+[pubs-page]: https://jbisits.github.io/publications/
