@@ -34,7 +34,7 @@ Some musical highlights from this period have been [Beethoven's fifth symphony w
 In 2019 I was part of an adaption of the children's book [There is a Sea in my Bedroom](https://www.youtube.com/watch?v=DRGKj2V3CTs) where I even did some acting!!
 I was given the chance to reprise this role in 2024 for a run of performances in the Nielsen theatre as part of [the Australian Chamber Orchestra families](https://www.aco.com.au/pier23/families).
 
-Since 2015 I have been co-artistic director of the [Craven Creek Music Festival](https://www.cravencreekmusic.com/) with my partner Heather Lindsay.
+From 2015-2023 I was co-artistic director of the [Craven Creek Music Festival](https://www.cravencreekmusic.com/) with my partner Heather Lindsay.
 This festival is a weekend of chamber music concerts in "the old barn" (see the overlay image).
 
 ### Orchestral Experience

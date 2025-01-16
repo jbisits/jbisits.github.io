@@ -48,6 +48,10 @@ To our knowledge this was the first turbulence resolving simulation to simulate 
 Isopycnal (i.e. lateral) mixing in the Southern Ocean is important for the global climate as it influences the uptake and transport of heat and carbon.
 During my honours year I worked on methods to estimate lateral mixing from simulated tracer release experiments.
 The goal was to assess how accurate an estimate of lateral mixing is if there is only data available from a single tracer release experiment (as is the case in observational campaigns such as [DIMES](https://dimes.ucsd.edu/)).
+Using a two layer quasi-geostrophic model of turbulent flow we were able to show that data from a single tracer release does yield an accurate estimate when compared to the ensemble average of many tracer release experiments.
+An example of the tracer release experiment, built using the [PassiveTracerFlows.jl](https://github.com/FourierFlows/PassiveTracerFlows.jl) package, is below.
+
+{% include video id="17REV8J_tm2WguqOlU6ZD6gC4UBaiiMTK" provider="google-drive" %}
 
 ## Water quality modelling and prediction
 
