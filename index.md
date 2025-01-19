@@ -7,7 +7,8 @@ header:
 ---
 
 I am a PhD candidate in the School of Mathematics and Statistics at the University of New South Wales and professional double bassist living in Sydney, Australia.
-This website contains information [about][about-page] me, my current [CV][cv-pdf], my [music][music-page] work and my [research][research-page].
+This website contains information [about][about-page] me, my [research][research-page], and my [music][music-page] work.
+For more details you can also view my [CV][cv-pdf].
 
 [about-page]: https://jbisits.github.io/about/
 [music-page]: https://jbisits.github.io/music/
