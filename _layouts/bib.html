@@ -1,7 +1,9 @@
 ___
 ___
+{{ reference }}
+{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }
 {% if entry.doi %}
 <a href="http://dx.doi.org/{{entry.doi}}">{{entry.doi}}</a>
 {% endif %}
 
-"{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}"
+<!-- "{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}" -->
