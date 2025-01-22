@@ -115,6 +115,8 @@ scholar:
   style: apa
   bibliography_template: bib #"{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}"
 
+reference_names:
+  - "Bisits, J. I."
 #category_archive:
 #  type: liquid
 #  path: /categories/
