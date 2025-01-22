@@ -6,7 +6,7 @@ ___
     {% assign highlighted_name = '<strong>' | append: ref_name | append: '</strong>' %}
     {% assign new_reference = new_reference | replace: ref_name, highlighted_name %}
 {% endfor %}
-{% if entry.doi %}
+<!-- {% if entry.doi %}
 <a href="http://dx.doi.org/{{entry.doi}}">{{entry.doi}}</a>
-{% endif %}
+{% endif %} -->
 {{ new_reference | url_to_link }}
