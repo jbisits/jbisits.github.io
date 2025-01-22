@@ -8,12 +8,12 @@ header:
 
 ## Publications
 
-{% bibliography --file papers --template%}
+{% bibliography --file papers --template bib%}
 
 ## Oral presentations
 
-{% bibliography --file presentations --query @*[addendum=Oral presentation]  --template%}
+{% bibliography --file presentations --query @*[addendum=Oral presentation]  --template bib%}
 
 ## Poster presentations
 
-{% bibliography --file presentations --query @*[addendum=Poster presentation]  --template%}
+{% bibliography --file presentations --query @*[addendum=Poster presentation]  --template bib%}
