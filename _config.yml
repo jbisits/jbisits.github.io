@@ -113,8 +113,9 @@ defaults:
 
 scholar:
   style: apa
-  bibliography_template: "{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}"
+  bibliography_template: bib
 
+  replace_strings: true
 # reference_names:
 #   - "Bisits, J. I."
 
