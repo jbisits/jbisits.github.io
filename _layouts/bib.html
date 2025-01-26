@@ -9,7 +9,8 @@ ___
 <a href="http://dx.doi.org/{{entry.doi}}">{{entry.doi}}</a>
 {% endif %} -->
 <!-- {{ new_reference}} -->
-{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}
+<!-- {{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }} -->
+
     {% if entry.doi %}
     <a href="http://dx.doi.org/{{entry.doi}}"><button class="btn btnId btnPub--download" style="outline:none; position:relative;white-space: normal;">Link</button></a>
     {% endif %}
@@ -17,6 +18,7 @@ ___
     {% if entry.abstract %}
     <button class="btn btnId btnPub--abstract" id="b_{{key}}-abstract" style="outline:none;">Abstract</button>
     {% endif %}
-    <div class="dropDownAbstract" id="{{key}}-abstract">
+
+        <div class="dropDownAbstract" id="{{key}}-abstract">
     {{entry.abstract}}
     </div>
