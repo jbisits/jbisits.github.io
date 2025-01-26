@@ -1,6 +1,5 @@
 ___
 ___
-<!-- {{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }} -->
 <!-- {% assign new_reference = reference %}
 {% for ref_name in site.reference_names %}
     {% assign highlighted_name = '<strong>' | append: ref_name | append: '</strong>' %}
@@ -10,3 +9,15 @@ ___
 <a href="http://dx.doi.org/{{entry.doi}}">{{entry.doi}}</a>
 {% endif %} -->
 <!-- {{ new_reference}} -->
+{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}
+    {% if entry.abstract %}
+    <button class="btn btnId btnPub--abstract" id="b_{{key}}-abstract" style="outline:none;">Abstract</button>
+    {% endif %}
+
+    {% if entry.doi %}
+    <a href="http://dx.doi.org/{{entry.doi}}"><button class="btn btnId btnPub--download" style="outline:none; position:relative;white-space: normal;">DOI</button></a>
+    {% endif %}
+
+    <div class="dropDownAbstract" id="{{key}}-abstract">
+    {{entry.abstract}}
+    </div>

@@ -113,7 +113,7 @@ defaults:
 
 scholar:
   style: apa
-  bibliography_template: "{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}"
+  bibliography_template: bib #"{{ reference | replace_first: 'Bisits, J. I.', '<b>Bisits, J. I.</b>' }}"
 
   replace_strings: true
   join_strings:    true
