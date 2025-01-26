@@ -5,7 +5,7 @@ $(document).ready(function(){
 	
     $(".btnId").click(function(){
         var str = $(this).attr('id');
-		var ret = str.split("_");
+		var ret = str.split("-");
 		var id = ret[1];
 		$('#' + id).toggle();
     });
