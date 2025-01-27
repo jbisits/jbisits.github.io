@@ -118,7 +118,7 @@ scholar:
   replace_strings: true
   join_strings:    true
 
-  order: descending
+  order: ascending
 
 #category_archive:
 #  type: liquid
