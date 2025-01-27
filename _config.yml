@@ -118,6 +118,8 @@ scholar:
   replace_strings: true
   join_strings:    true
 
+  order: descending
+
 #category_archive:
 #  type: liquid
 #  path: /categories/
