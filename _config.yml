@@ -113,6 +113,7 @@ defaults:
 
 scholar:
   style: apa
+  order: descending
   bibliography_template: bib
 
   replace_strings: true
