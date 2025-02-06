@@ -35,13 +35,18 @@ In the first project of my PhD, we investigated whether a non-linear process cal
 The Antarctic winter causes the surface water to approach its freezing point.
 If brine rejection occurs due to sea ice formation, then the density of the winter surface water increases.
 Once the salinity of the surface water reaches a critical value, relatively warm and salty deep water that is upwelled to the surface can mix with this winter surface water resulting in a more dense water mass forming (as a result of cabbeling) that can trigger a gravitational instability and convective mixing.
+The salintiy-temperature region where the profile becomes unstable to cabbeling is the violet shaded region in the schematic show below.
 We developed a criteria to diagnose when a water column will be unstable to cabbeling, but still statically stable, using model output and in-situ observations.
+
+![image](/assets/images/cab_schematic.png)
 
 ### Cabbeling as a catalyst and driver of turbulent mixing
 
 The first project of my PhD demonstrated the influence cabbeling is having in the high-latitude oceans but was unable to address whether cabbeling is able to trigger and drive turbulent mixing.
-To investigate this we used Direct Numerical Simulations which simulate all length scales of motion to determine how cabbeling impacts mixing and the energetics of mixing.
+To investigate this we used Direct Numerical Simulations which simulate all length scales of motion to determine how cabbeling impacts mixing and the energetics of mixing - see the figure below with snapshots of the onset of cabbeling triggered convection from a statically stable initial state.
 To our knowledge this was the first turbulence resolving simulation to simulate cabbeling which we found can trigger and drive rapid turbulent mixing as well as create a source of available potential energy.
+
+![image](/assets/images/dns_schematic_ts_horizontal.png)
 
 ## Estimating isopycnal mixing
 
