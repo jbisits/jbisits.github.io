@@ -85,6 +85,9 @@ footer:
     - label: "Google scholar"
       icon: "fa-brands fa-google-scholar"
       url: https://scholar.google.com/citations?user=Ti3BqtMAAAAJ&hl=en
+    - label: "CV"
+      icon: "fa-solid fa-file"
+      url: https://nbviewer.org/github/jbisits/Josef-Bisits-CV/blob/main/main.pdf
 
 atom_feed:
   hide: true
