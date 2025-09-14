@@ -19,11 +19,10 @@ Continued research on mixing in the ocean is needed for improvements to how mixi
 
 For more information about any of the projects below see the relevant [publications][pubs-page] or feel free to email me.
 
-## PhD project
+## Non-linear controls on ocean circulation and mixing in the high-latitude oceans
 
-The title of my PhD thesis is: *Non-linear controls on ocean circulation and mixing in the marginal ice zone*.
 The non-linear equation of state for the density of seawater leads to interesting phenomena, such as a gain in density when two water masses of equal density, but differing temperature and salinity, are mixed.
-Though these non-linear processes are not leading order, the may be placing controls on water mass transformation in the Southern Ocean.
+Understanding the effect this gain in density upon mixing and ocean circulation in the high-latitudes was the focus of my PhD. 
 
 ![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I am based at the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/) Sydney, Australia.
 
