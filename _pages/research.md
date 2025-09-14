@@ -22,7 +22,7 @@ For more information about any of the projects below see the relevant [publicati
 ## Non-linear controls on ocean circulation and mixing in the high-latitude oceans
 
 The non-linear equation of state for the density of seawater leads to interesting phenomena, such as a gain in density when two water masses of equal density, but differing temperature and salinity, are mixed.
-Understanding the effect this gain in density upon mixing and ocean circulation in the high-latitudes was the focus of my PhD. 
+Understanding the effect this gain in density upon mixing and ocean circulation in the high-latitudes was the focus of my PhD.
 
 ![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I am based at the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/) Sydney, Australia.
 

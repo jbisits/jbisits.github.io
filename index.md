@@ -6,7 +6,7 @@ header:
   caption: "Little bay, Sydney"
 ---
 
-I am a postdoctoral research associate in the Biological Earth and Environmental Science department and professional double bassist living in Sydney, Australia.
+I am a physical oceanographer and professional double bassist living in Sydney, Australia.
 This website contains information [about][about-page] me, my [research][research-page], and my [music][music-page] work.
 For more details you can also view my [CV][cv-pdf].
 
