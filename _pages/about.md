@@ -34,7 +34,8 @@ This rediscovery led me back to university in the second half of 2016 to begin a
 When I started I was not really sure where it would take me, I just enjoyed the maths and the mental stimulation that studying brings!
 I was lucky to have great supervisors ([Associate Professor Jan Zika](https://sites.google.com/view/janzika/home) and [Dr Geoff Stanley](https://geoffstanley.github.io/)) for my honours project one of whom even took me on to do a PhD!
 
-Currenlty I am in the second year of my PhD and continuing to work as a freelance double bassist.
+Currenlty I am a research associate in the Biological, Earth and Environmental Sciences at the University of New South Wales.
+I am also continuing to work as a freelance double bassist where and when I get a chance!
 In my spare time I play and watch lots of tennis, read and spend time with my family.
 
 [cv-pdf]: https://nbviewer.org/github/jbisits/Josef-Bisits-CV/blob/main/main.pdf
