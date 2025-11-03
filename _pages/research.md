@@ -10,7 +10,7 @@ toc_icon: "book-open"
 
 My area of research is physical oceanography and to date I have been working on ocean mixing.
 Ocean mixing is a key part of the climate system as it influences the rate and amount of heat and carbon that are taken in by the ocean.
-Once such tracers have made it into the ocean, their transport is then strongly influenced by (you guessed it) ocean mixing!
+Once such tracers have made it into the ocean, their transport is strongly influenced by (you guessed it) mixing!
 
 Broadly speaking ocean mixing can be categorised into *lateral* (isopyncal) and *vertical* (across isopycnals) mixing.
 Turbulent mixing occurs down to sub-millimetre length scales which can be simulated but the computational cost of doing so, as well as the amount of data that is produced, makes this currently impossible.
@@ -18,6 +18,10 @@ This limitation means that in global ocean circulation models many mixing proces
 Continued research on mixing in the ocean is needed for improvements to how mixing is represented (i.e. parameterised) in global ocean circulation models.
 
 For more information about any of the projects below see the relevant [publications][pubs-page] or feel free to email me.
+
+## Numerical mixing in finite volume ocean models
+
+
 
 ## Non-linear controls on ocean circulation and mixing in the high-latitude oceans
 
@@ -46,6 +50,11 @@ To investigate this we used Direct Numerical Simulations which simulate all leng
 To our knowledge this was the first turbulence resolving simulation to simulate cabbeling which we found can trigger and drive rapid turbulent mixing as well as create a source of available potential energy.
 
 ![image](/assets/images/dns_schematic_ts_horizontal.png)
+
+### Interplay between cabbeling and double diffusion
+
+Another small scale process that is prominent in the high-latitude oceans is *diffusive convection*.
+This type of enhanced mixing is driven by the differing molecular diffusivities of salinity and temperature (molecular temperature diffusivity is two orders of magnitude larger than molecular salinity diffusivity).
 
 ## Estimating isopycnal mixing
 
