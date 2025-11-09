@@ -21,7 +21,8 @@ For more information about any of the projects below see the relevant [publicati
 
 ## Numerical mixing in finite volume ocean models
 
-
+The discretisation of advection schemes to transport tracers and thickness in finite volume ocean models leads to spurios *numerical* mixing.
+Currently we are looking at methods to diagnose numerical mixing --- more to come soon!
 
 ## Non-linear controls on ocean circulation and mixing in the high-latitude oceans
 
