@@ -28,9 +28,14 @@ For more information about any of the projects below see the relevant [publicati
 The non-linear equation of state for the density of seawater leads to interesting phenomena, such as a gain in density when two water masses of equal density, but differing temperature and salinity, are mixed.
 Understanding the effect this gain in density upon mixing and ocean circulation in the high-latitudes was the focus of my PhD.
 
-![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I am based at the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/) Sydney, Australia.
+For a real riot you can find my [thesis here](https://unsworks.unsw.edu.au/entities/publication/31923b90-a5fa-4c58-8202-d59c7434ef72) or just view the <button class="btn btnId btnPub--abstract" id="Some words here about my thesis." style="outline:none; color:var(--info-color); border-color:var(--info-color);">Abstract</button>.
 
-![image-left](/assets/images/ACEAS_logo_1.png){: .align-left style="width: 50%;"} I am also part of the the [Antarctic Centre for Excellence in Antarctic Science](https://antarctic.org.au/).
+Broadly speaking, when turbulent mixing is the dominant background mixing process in the high-latitude oceans, cabbeling will influence the thermohaline structure of the upper ocean by setting a limiting stability criteria.
+When the dominant background mixing process is *diffusive convection*, cabbeling's effect is subtle untile there is a temperature difference of 0.5$\circ$C between layers meaning cabbeling is more prominent in the thermohaline staircases in the Southern Ocean.
+
+![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I was based in the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/) Sydney, Australia.
+
+![image-left](/assets/images/ACEAS_logo_1.png){: .align-left style="width: 50%;"} I was also part of the the [Antarctic Centre for Excellence in Antarctic Science](https://antarctic.org.au/) for the duration of my PhD.
 
 ### Does cabbeling shape the thermohaline structure of the high-latitude oceans?
 
@@ -53,8 +58,13 @@ To our knowledge this was the first turbulence resolving simulation to simulate 
 
 ### Interplay between cabbeling and double diffusion
 
-Another small scale process that is prominent in the high-latitude oceans is *diffusive convection*.
-This type of enhanced mixing is driven by the differing molecular diffusivities of salinity and temperature (molecular temperature diffusivity is two orders of magnitude larger than molecular salinity diffusivity).
+Another small scale process that is prominent in the high-latitude oceans, and drives enhanced mixing, is *doubele diffusion*.
+Double diffusion arises because of the differing molecular diffusivities of salinity and temperature; molecular temperature diffusivity is two orders of magnitude larger than molecular salinity diffusivity.
+When conditions are favourable, i.e. when there is an *unstable vertical temperature gradient and a *stable* vertical salinity gradient, the differing diffusivities of salinity drive a type of enhanced mixing known as *diffusive convection.*
+We investigated how the non-linear nature of the equation of state and double diffusion interact in the high-latitude oceans.
+Using Direct Numerical Simulations we found that the non-linearities in the equation of state drive an upward migration of *diffusive interfaces* agreeing with previous laboratory work.
+
+![image](/assets/images/interface_height.png)
 
 ## Estimating isopycnal mixing
 
