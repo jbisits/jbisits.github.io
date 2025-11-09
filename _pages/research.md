@@ -10,7 +10,7 @@ toc_icon: "book-open"
 
 My area of research is physical oceanography and to date I have been working on ocean mixing.
 Ocean mixing is a key part of the climate system as it influences the rate and amount of heat and carbon that are taken in by the ocean.
-Once such tracers have made it into the ocean, their transport is then strongly influenced by (you guessed it) ocean mixing!
+Once such tracers have made it into the ocean, their transport is strongly influenced by (you guessed it) mixing!
 
 Broadly speaking ocean mixing can be categorised into *lateral* (isopyncal) and *vertical* (across isopycnals) mixing.
 Turbulent mixing occurs down to sub-millimetre length scales which can be simulated but the computational cost of doing so, as well as the amount of data that is produced, makes this currently impossible.
@@ -19,14 +19,24 @@ Continued research on mixing in the ocean is needed for improvements to how mixi
 
 For more information about any of the projects below see the relevant [publications][pubs-page] or feel free to email me.
 
+## Numerical mixing in finite volume ocean models
+
+The discretisation of advection schemes to transport tracers and thickness in finite volume ocean models leads to spurios *numerical* mixing.
+Currently we are looking at methods to diagnose numerical mixing --- more to come soon!
+
 ## Non-linear controls on ocean circulation and mixing in the high-latitude oceans
 
 The non-linear equation of state for the density of seawater leads to interesting phenomena, such as a gain in density when two water masses of equal density, but differing temperature and salinity, are mixed.
 Understanding the effect this gain in density upon mixing and ocean circulation in the high-latitudes was the focus of my PhD.
 
-![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I am based at the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/) Sydney, Australia.
+For a real riot you can find my [thesis here](https://unsworks.unsw.edu.au/entities/publication/31923b90-a5fa-4c58-8202-d59c7434ef72) or just view the <button class="btn btnId btnPub--abstract" id="The uptake and vertical redistribution of heat and carbon is a crucial component of the ocean’s role in regulating Earth’s climate. Turbulent mixing, triggered by gravitational instability, enhances vertical transport of heat and carbon between the sea surface and deep ocean. Non-linearities in the equation of state for seawater density result in processes that can alter local gravitational stability, possibly leading to enhanced mixing. In this thesis I explore the impact of these non-linearities on the thermohaline structure and mixing in the high-latitude oceans. In chapter 2, I seek to establish if the gain in density upon mixing, known as cabbeling, is having an impact in high-latitude oceans. A hypothesis from a 1957 study by N. Fofonoff is extended to investigate if a gravitationally stable profile can become unstable after mixing due to cabbeling creating denser waters i.e. if a profile is unstable to cabbeling. In both observational data and output from a data constrained global circulation model, profiles are rarely unstable to cabbeling suggesting cabbeling sets a limiting threshold for vertical profile stability. Cabbeling’s effect on small-scale mixing is explored using Direct Numerical Simulation (DNS) in chapter 3. The simulations show that a cabbeling instability can trigger and drive convection from an initially gravitationally stable state. Further, cabbeling driven convection is the same order of magnitude as convection driven by static instability indicating parametrisations of convection in global ocean models may need updates to take into account cabbeling instability, particularly at the high-latitudes. In chapter 4, the interaction between cabbeling and double diffusion is investigated using DNS. At high-latitudes, when turbulent mixing is weak and salinity and temperature increase with depth, conditions are favourable for "diffusive" convection. With a linear equation of state, this double diffusive instability forms equal density anomalies within layers either side of a "diffusive" interface. With a non-linear equation of state, our DNS results show a larger density anomaly forms in the lower layer, and the interface migrates upward, consistent with previous laboratory experiments. The temperature difference is found to be the main driver of the asymmetric density anomalies." style="outline:none; color:var(--info-color); border-color:var(--info-color);">Abstract</button>.
 
-![image-left](/assets/images/ACEAS_logo_1.png){: .align-left style="width: 50%;"} I am also part of the the [Antarctic Centre for Excellence in Antarctic Science](https://antarctic.org.au/).
+Broadly speaking, when turbulent mixing is the dominant background mixing process in the high-latitude oceans, cabbeling will influence the thermohaline structure of the upper ocean by setting a limiting stability criteria.
+When the dominant background mixing process is *diffusive convection*, cabbeling's effect is subtle untile there is a temperature difference of 0.5$\circ$C between layers meaning cabbeling is more prominent in the thermohaline staircases in the Southern Ocean.
+
+![image-right](/assets/images/unsw-crest.png){: .align-right style="width: 20%;"} I was based in the [school of mathematics and statistics](https://www.unsw.edu.au/science/our-schools/maths) under the supervision of [Associate Professor Jan Zika](https://sites.google.com/view/janzika/home), [University of New South Wales](https://www.unsw.edu.au/) Sydney, Australia.
+
+![image-left](/assets/images/ACEAS_logo_1.png){: .align-left style="width: 50%;"} I was also part of the the [Antarctic Centre for Excellence in Antarctic Science](https://antarctic.org.au/) for the duration of my PhD.
 
 ### Does cabbeling shape the thermohaline structure of the high-latitude oceans?
 
@@ -46,6 +56,16 @@ To investigate this we used Direct Numerical Simulations which simulate all leng
 To our knowledge this was the first turbulence resolving simulation to simulate cabbeling which we found can trigger and drive rapid turbulent mixing as well as create a source of available potential energy.
 
 ![image](/assets/images/dns_schematic_ts_horizontal.png)
+
+### Interplay between cabbeling and double diffusion
+
+Another small scale process that is prominent in the high-latitude oceans, and drives enhanced mixing, is *doubele diffusion*.
+Double diffusion arises because of the differing molecular diffusivities of salinity and temperature; molecular temperature diffusivity is two orders of magnitude larger than molecular salinity diffusivity.
+When conditions are favourable, i.e. when there is an *unstable vertical temperature gradient and a *stable* vertical salinity gradient, the differing diffusivities of salinity drive a type of enhanced mixing known as *diffusive convection.*
+We investigated how the non-linear nature of the equation of state and double diffusion interact in the high-latitude oceans.
+Using Direct Numerical Simulations we found that the non-linearities in the equation of state drive an upward migration of *diffusive interfaces* agreeing with previous laboratory work.
+
+![image](/assets/images/interface_height.png)
 
 ## Estimating isopycnal mixing
 
