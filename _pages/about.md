@@ -12,7 +12,7 @@ For more information about my work and education to date please see my [CV][cv-p
 
 ## Education
 
-- Doctor of Philosophy ([School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths), University of New South Wales) under supervision of Associate Professor Jan Zika (2022 - present)
+- Doctor of Philosophy ([School of Mathematics and Statistics](https://www.unsw.edu.au/science/our-schools/maths), University of New South Wales) under supervision of Associate Professor Jan Zika (2022 - 2025)
 - Bachelor of Science (Advanced Mathematics) (Honours) major in applied mathematics, University of New South Wales (2021)
 - Bachelor of Music (Performance), University of Sydney (2010)
 
