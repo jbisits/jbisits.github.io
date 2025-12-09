@@ -10,10 +10,10 @@ header:
 
 {% bibliography --file papers%}
 
-## Oral presentations
+## Selected oral presentations
 
 {% bibliography --file presentations --query @*[addendum=Oral presentation]%}
 
-## Poster presentations
+## Selected poster presentations
 
 {% bibliography --file presentations --query @*[addendum=Poster presentation] %}
