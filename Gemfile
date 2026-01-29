@@ -1,11 +1,9 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-
+gem "jekyll", "~> 4.3"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "uri", "0.10.0"
-gem "nokogiri", "1.14"
 gem "webrick"
 
 # If you have any plugins, put them here!
