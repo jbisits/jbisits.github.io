@@ -12,8 +12,8 @@ header:
 
 ## Selected oral presentations
 
-{% bibliography --file presentations --query @*[addendum=Oral presentation]%}
+{% bibliography --file oral_presos%}
 
 ## Selected poster presentations
 
-{% bibliography --file presentations --query @*[addendum=Poster presentation] %}
+{% bibliography --file posters%}
