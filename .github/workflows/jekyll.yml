@@ -56,6 +56,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Fetch Latest CV Release
+        run: |
+          TAG=$(curl -s https://api.github.com/repos/jbisits/Josef-Bisits-CV/releases/latest | jq -r .tag_name)
+          mkdir -p _data
+          # Basic URLs
+          echo "tag: $TAG" > _data/version.yml
+          echo "url: https://github.com/jbisits/Josef-Bisits-CV/releases/latest" >> _data/version.yml
+          # The Direct Download Link
+          DOWNLOAD_URL="https://github.com/jbisits/Josef-Bisits-CV/releases/download/$TAG/main.pdf"
+          echo "download_url: $DOWNLOAD_URL" >> _data/version.yml
+          # The NBViewer Link (Encoded)
+          # We use 'jq' to handle the URL encoding safely
+          ENCODED_URL=$(echo $DOWNLOAD_URL | jq -sRr @uri)
+          echo "nbviewer_url: https://nbviewer.org/urls/$ENCODED_URL" >> _data/version.yml
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4 
