@@ -33,23 +33,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  - name: Fetch Latest CV Release
-    run: |
-      TAG=$(curl -s https://api.github.com/repos/jbisits/Josef-Bisits-CV/releases/latest | jq -r .tag_name)
-      mkdir -p _data
-      
-      # Basic URLs
-      echo "tag: $TAG" > _data/version.yml
-      echo "url: https://github.com/jbisits/Josef-Bisits-CV/releases/latest" >> _data/version.yml
-      
-      # The Direct Download Link
-      DOWNLOAD_URL="https://github.com/jbisits/Josef-Bisits-CV/releases/download/$TAG/main.pdf"
-      echo "download_url: $DOWNLOAD_URL" >> _data/version.yml
-      
-      # The NBViewer Link (Encoded)
-      # We use 'jq' to handle the URL encoding safely
-      ENCODED_URL=$(echo $DOWNLOAD_URL | jq -sRr @uri)
-      echo "nbviewer_url: https://nbviewer.org/urls/$ENCODED_URL" >> _data/version.yml
   # Build job
   build:
     runs-on: ubuntu-latest
