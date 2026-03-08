@@ -50,6 +50,7 @@ jobs:
           # 3. Save it to Jekyll data
           mkdir -p _data
           echo "nbviewer_url: $NB_URL" > _data/version.yml
+          sed -i "s|cv_link_placeholder|$NB_URL|g" _config.yml
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4 
