@@ -13,4 +13,4 @@ For more details you can also view my [CV][cv-pdf].
 [about-page]: https://jbisits.github.io/about/
 [music-page]: https://jbisits.github.io/music/
 [research-page]: https://jbisits.github.io/research/
-[cv-pdf]: {{ site.data.version.download_url }}
+[cv-pdf]: {{ site.data.version.nbviewer_url }}
