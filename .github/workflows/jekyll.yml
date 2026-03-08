@@ -41,15 +41,15 @@ jobs:
         uses: actions/checkout@v4
       - name: Generate Latest CV Link
         run: |
-        # 1. Get the latest tag name from the API (e.g., Feb2026)
-        TAG=$(curl -s https://api.github.com/repos/jbisits/Josef-Bisits-CV/releases/latest | jq -r .tag_name)
-        
-        # 2. Build the standard GitHub blob URL
-        NB_URL="https://nbviewer.org/github/jbisits/Josef-Bisits-CV/blob/$TAG/main.pdf"
-        
-        # 3. Save it to Jekyll data
-        mkdir -p _data
-        echo "nbviewer_url: $NB_URL" > _data/version.yml
+          # 1. Get the latest tag name from the API (e.g., Feb2026)
+          TAG=$(curl -s https://api.github.com/repos/jbisits/Josef-Bisits-CV/releases/latest | jq -r .tag_name)
+          
+          # 2. Build the standard GitHub blob URL
+          NB_URL="https://nbviewer.org/github/jbisits/Josef-Bisits-CV/blob/$TAG/main.pdf"
+          
+          # 3. Save it to Jekyll data
+          mkdir -p _data
+          echo "nbviewer_url: $NB_URL" > _data/version.yml
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4 
