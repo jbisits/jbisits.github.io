@@ -1,6 +1,9 @@
 ---
 permalink: /software/
 title: "Software"
+header:
+  overlay_color: "#F2E6D4"
+  text_color: "8F8F8F"
 ---
 
 Throughout my research, I work with many different models of fluid flow ranging from turbulence resolving, process based models that require extremely fine resolution, all the to way global ocean-sea-ice models, that simulate the large scale circulation patterns of the ocean.
