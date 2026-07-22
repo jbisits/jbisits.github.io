@@ -58,6 +58,8 @@ $base0f: #CB7459 !default;
 }
 
 .page__title {
+  margin-top: 0;
+  line-height: 1;
   background-color: $footer-background-color;
   color: $text-color;
   font-weight: bold;

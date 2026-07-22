@@ -1,8 +1,6 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-header:
-  overlay_color: "#333"
 ---
 
 I have been actively involved in teaching throughout my music and mathematics/oceanography career.

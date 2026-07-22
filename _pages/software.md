@@ -1,8 +1,6 @@
 ---
 permalink: /software/
 title: "Software"
-header:
-    overlay_color: "#333"
 ---
 
 Throughout my research, I work with many different models of fluid flow ranging from turbulence resolving, process based models that require extremely fine resolution, all the to way global ocean-sea-ice models, that simulate the large scale circulation patterns of the ocean.
@@ -18,3 +16,4 @@ I am also fluent with [R](https://www.r-project.org/), [python](https://www.pyth
 Looking at screens full of code all day made me realise how important colour schemes for editors are.
 This encouraged me to explore the wide world of colour schemes!
 I particularly like the [penumbra colour scheme](https://github.com/nealmckee/penumbra) which I have ported to [obsidian](https://github.com/jbisits/penumbra-obsidian-theme) and [zed](https://github.com/jbisits/penumbra-zed) and I also have a version for [neovim](https://github.com/jbisits/penumbra.nvim) which I am currently working on.
+The penumbra theme is what I currently am using for this website as well!

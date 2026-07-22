@@ -2,8 +2,6 @@
 permalink: /publications/
 title: "Publications and presentations"
 toc: true
-header:
-  overlay_color: "#333"
 ---
 
 ## Publications
