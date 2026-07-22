@@ -4,6 +4,9 @@ title: "About me"
 toc: true
 toc_label: "About me"
 toc_icon: "user-circle"
+header:
+  overlay_color: "#F2E6D4"
+  text_color: "8F8F8F"
 ---
 
 For more information about my work and education to date please see my [CV][cv-pdf].
