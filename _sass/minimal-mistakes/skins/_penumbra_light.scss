@@ -1,0 +1,58 @@
+/* ==========================================================================
+   Penumbra Light skin
+   Based on the Penumbra colour scheme by Neal McKee
+   https://github.com/nealmckee/penumbra
+   ========================================================================== */
+
+/* Base colours */
+$background-color: #FFF7ED !default;
+$text-color: #8F8F8F !default;
+$primary-color: #00A0BE !default;
+$border-color: #F2E6D4 !default;
+$code-background-color: #F2E6D4 !default;
+$code-background-color-dark: #3E4044 !default;
+$form-background-color: #F2E6D4 !default;
+$footer-background-color: #F2E6D4 !default;
+
+/* Links */
+$link-color: mix(#000, #00A0BE, 20%) !default;
+$link-color-hover: mix(#000, mix(#000, #00A0BE, 20%), 25%) !default;
+$link-color-visited: mix(#fff, mix(#000, #00A0BE, 20%), 15%) !default;
+$masthead-link-color: #8F8F8F !default;
+$masthead-link-color-hover: #636363 !default;
+$navicon-link-color-hover: #FFFDFB !default;
+
+/* Semantic colours (Penumbra accent palette) */
+$success-color: #46A473 !default;
+$warning-color: #A38F2D !default;
+$danger-color: #CB7459 !default;
+$info-color: #00A0BE !default;
+
+/* Syntax highlighting (Base16 mapped to Penumbra accents) */
+$base00: #FFF7ED !default;
+$base01: #F2E6D4 !default;
+$base02: #F2E6D4 !default;
+$base03: #636363 !default;
+$base04: #BEBEBE !default;
+$base05: #8F8F8F !default;
+$base06: #8F8F8F !default;
+$base07: #3E4044 !default;
+$base08: #CB7459 !default;
+$base09: #C27D40 !default;
+$base0a: #A38F2D !default;
+$base0b: #46A473 !default;
+$base0c: #00A0BE !default;
+$base0d: #7E87D6 !default;
+$base0e: #AC78BD !default;
+$base0f: #CB7459 !default;
+
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.ais-search-box .ais-search-box--input {
+  background-color: $form-background-color;
+}
