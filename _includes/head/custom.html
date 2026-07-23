@@ -6,4 +6,16 @@
 <link rel="shortcut icon" href="{{ "/assets/images/favicon/favicon.ico" | relative_url }}"/>
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/images/favicon/apple-touch-icon.png | relative_url }}" />
 <link rel="manifest" href="{{ "/assets/images/favicon/site.webmanifest" | relative_url }}"/>
+{% if page.header.text_color %}
+<style>
+  .page__hero--overlay .page__title,
+  .page__hero--overlay .page__meta,
+  .page__hero--overlay .page__lead,
+  .page__hero--overlay .btn {
+    color: {{ page.header.text_color }} !important;
+    font-weight: bold !important;
+    text-shadow: none !important;
+  }
+</style>
+{% endif %}
 <!-- end custom head snippets -->
