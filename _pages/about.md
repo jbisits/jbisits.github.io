@@ -39,4 +39,5 @@ Currenlty I am a research associate in the Biological, Earth and Environmental S
 I am also continuing to work as a freelance double bassist where and when I get a chance!
 In my spare time I play and watch lots of tennis, read and spend time with my family.
 
-[cv-pdf]: https://nbviewer.org/github/jbisits/Josef-Bisits-CV/blob/main/Bisits_CV.pdf
+<!-- [cv-pdf]: https://nbviewer.org/github/jbisits/Josef-Bisits-CV/blob/main/Bisits_CV.pdf -->
+[cv-pdf]: {{ site.data.version.nbviewer_url }}
