@@ -36,6 +36,9 @@ I was given the chance to reprise this role in 2024 for a run of performances in
 
 From 2015-2023 I was co-artistic director of the [Craven Creek Music Festival](https://www.cravencreekmusic.com/) with my partner Heather Lindsay.
 This festival is a weekend of chamber music concerts in "the old barn" (see the overlay image).
+In 2026, I performed the Trout quintet by Franz Schubert at the Craven Creek Music Festival with my old friends Timo "Tipi" Valve and Liisa Pallandi from the Australian Cahmaber Orchestra, and new friends Harry Bennets from the Sydney Symphony and Aura Go from Monash university.
+This was a special concert to me, not just because of the setting and the people I got to play with, because the first piece I ever gave a public performance of on the double bass (after only nine months or so of learning) was the third variation from the fourth movement of the Trout where the double bass and cello play the melody.
+I am not sure if or when I will play my last professional concert but if it was this one it would be a nice beginning and end!
 
 ### Orchestral Experience
 
